@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<engine>
+    <beans>
+        <bean id="item1" class="demo.Item1"/>
+        <bean id="item2" class="demo.Item2"/>
+        <bean id="item3" class="demo.Item3"/>
+        <bean id="item4" class="demo.Item4"/>
+        <bean id="item5" class="demo.Item5"/>
+    </beans>
+</engine>

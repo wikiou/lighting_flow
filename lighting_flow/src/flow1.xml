@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<engine>
+
+    <flows>
+        <flow id="flow1">
+            <list ref="item1,item2" />
+            <map key="valueKey1">
+                <entry value="value1" ref="item3" />
+                <entry value="value2">
+                    <list ref="item4" />
+                </entry>
+            </map>
+            <list ref="item5" />
+        </flow>
+    </flows>
+</engine>
